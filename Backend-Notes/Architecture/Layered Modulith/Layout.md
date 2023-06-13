@@ -1,7 +1,4 @@
 ![[Layout.png]]
-
-
-> [!col] >> [!info] Callouts >> Stuff inside the callout >> More stuff inside. >>> [!ERROR] Error description >>> Nested callout >>> - example MD code >>> - more stuff > >> [!col-md-2.5] >> # Text annotation example: >>> [!col] >>>> [!col-md] >>>> 1. Function name **a** should be more descriptive >>>> 2. Remove **if/else** by using **||** >>> >>>> [!col-md-2] >>>> ```js >>>> function a(word) { >>>> if (word != null) { >>>> console.log(word); >>>> } else { >>>> console.log("a"); >>>> } >>>> } >>>> let msg = "Hello, world!"; >>>> console.log(msg)
 # Processors
 
 ## approachsettlment-v1.0
