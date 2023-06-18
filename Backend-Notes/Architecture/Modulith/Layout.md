@@ -1,5 +1,3 @@
-![[Layout.png]]
-
 # Modulith
 
 ![edpn-modules.drawio.png](../References/edpn-modules.drawio.png)
